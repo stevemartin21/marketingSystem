@@ -1,0 +1,22 @@
+.selectionItem input[type='radio'] {
+	
+	margin:5px;
+	padding: 5px;
+}
+
+.form-check-label{
+	margin:5px;
+	padding:5px;
+}
+
+.organizer{
+	width:100%;
+	display: block;
+	float:left;
+}
+
+.starHolder {
+	margin:10px auto;
+	padding:10px;
+	text-align: center;
+}

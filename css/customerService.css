@@ -1,0 +1,36 @@
+#callToAction{
+
+	background-color: #fafafa;
+
+	text-align: center;
+	font-weight: bold;
+	padding:10px;
+}
+
+select{
+	padding:10px;
+	background-color:blue;
+}
+
+.results{
+
+	background-color: #33b5e5;
+	color:white;
+	margin:10px 0px;
+}
+
+.sectionHead{
+	background-color: #2E2E2E;
+	font-weight: bold;
+	text-align: center;
+	margin:20px 0px;
+	color:white;
+}
+
+.labelText{
+	color:white;
+	font-weight: bold;
+}
+.personal{
+	color:black;
+}
